@@ -1,0 +1,13 @@
+
+
+
+<b><fontsize=12>Copyright de las imágenes encontrado en el paquete deb</font></b>
+
+
+<b><fontsize=12>Changelog</font></b>
+
+
+<b><fontsize=12>AUTHORS</font></b>
+
+
+<fontsize=8> cuerpo </font>

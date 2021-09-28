@@ -1,0 +1,9 @@
+Icono hecho con Axialis Icon Workshop - explicaciones.txt
+
+
+Mié, 30 Sep 2009  08:54:12
+
+
+Este icono fue hecho con el Axialis Icon Workshop, abriendo primero uno de sus iconos (los que el mismo tiene de muestra) y seguidamente me di cuenta que tiene dentro 5 clases de iconos diferentes, con eso lo hice. Para más información en la carpeta "Manuales" Wacho allí tienes un manual de Axialis Icon  Workshop completamente explciado.
+
+Washington Indacochea Delgado
